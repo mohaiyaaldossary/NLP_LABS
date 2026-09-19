@@ -1,0 +1,6 @@
+data/
+nltk_data/
+*.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
