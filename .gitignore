@@ -4,3 +4,4 @@ nltk_data/
 *.zip
 .ipynb_checkpoints/
 __pycache__/
+!LAB 5/simpsons_script_lines.csv
